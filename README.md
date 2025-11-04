@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://miftakhussalam.github.io/](https://miftakhussalam.github.io/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
